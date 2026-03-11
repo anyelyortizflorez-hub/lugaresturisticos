@@ -9,3 +9,6 @@
     .card:hover { transform: translateY(-6px); box-shadow: 0 12px 36px rgba(122,173,216,0.22); }
     .card img { width: 100%; height: 200px; object-fit: cover; display: block; }
     .card-body { padding: 1.4rem; }
+    .card-country { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.14em; color: #7aadd8; margin-bottom: 0.4rem; }
+    .card-title { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 600; color: #2c3e50; margin-bottom: 0.6rem; }
+    .card-desc { font-size: 0.85rem; font-weight: 300; color: #6b8fa8; line-height: 1.7; }
